@@ -5,11 +5,13 @@
 
 Please try out games that I have worked on with as a programmer:
 
-Pastelpunk:
-https://pastelpunkteam.itch.io/pastelpunk
+Pastelpunk: https://pastelpunkteam.itch.io/pastelpunk
+- Cyberpunk roguelike meets sweet pastel colors
 
-Gods' Strife: Tuonela:
-https://juho95.itch.io/gods-strife-tuonela
+
+Gods' Strife: Tuonela: https://juho95.itch.io/gods-strife-tuonela
+- 2D fighting game based on Finnish mythology. Local multiplayer
+
 
 
 <!---
