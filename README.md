@@ -5,10 +5,10 @@
 
 Please try out games that I have worked on with as a programmer:
 
-Pastelpunk
+Pastelpunk:
 https://pastelpunkteam.itch.io/pastelpunk
 
-Gods' Strife: Tuonela
+Gods' Strife: Tuonela:
 https://juho95.itch.io/gods-strife-tuonela
 
 
