@@ -16,7 +16,7 @@ Gods' Strife: Tuonela: https://juho95.itch.io/gods-strife-tuonela
 
 The latest Udemy courses I have worked on:
 
-- React - The Complete Guide (incl Hooks, React Router, Redux) :https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- React - The Complete Guide (incl Hooks, React Router, Redux): https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
 - The Web Developer Bootcamp 2022: https://www.udemy.com/course/the-web-developer-bootcamp/
 
