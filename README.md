@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Juho95
+Hi, I’m @Juho95
+
 - 👀 I’m interested in coding, game development, web development, gaming, gym, sports, all related to the Witcher series.
 - 🌱 I’m currently learning game development and web development.
 
