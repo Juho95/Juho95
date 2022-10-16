@@ -1,7 +1,7 @@
 Hi, I’m @Juho95
 
-- 👀 I’m interested in coding, game development, web development, gaming, gym, sports, all related to the Witcher series.
-- 🌱 I’m currently learning game development and web development.
+- 👀 I’m System Administrator interested in coding, game development, web development, gaming, gym, sports, all related to the Witcher series.
+- 🌱 I’m currently learning game development, web development and everything related to Microsoft's cloud computing services.
 
 
 Please try out games that I have worked on with as a programmer:
